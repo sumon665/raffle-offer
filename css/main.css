@@ -1,0 +1,65 @@
+body {
+	background: #eee !important;
+}
+
+#reward {
+	padding: 15px;
+	background: #fff;
+	max-width: 100%;
+	min-width: 300px;
+}
+
+#reward h3 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #0E0E0E;
+}
+
+#reward p {
+	font-size: 16px;
+	color: #0E0E0E;
+}
+
+#reward .reward_btn {
+	background: #0E0E0E;
+	color: #fff;
+/*	padding: 10px 0;*/
+	width: 100%;
+	display: block;
+	text-align: center;
+	font-size: 16px;
+}
+#reward .lgbtn {
+	padding: 10px 0;
+}
+
+#reward .offer_field {
+	margin-bottom: 15px;
+	display: inline-block;
+	width: 58%;
+}
+
+#reward .offer_field label {
+	margin-right: 5px;
+}
+
+#reward #offerbtn {
+	display: inline-block !important;
+	width: 40% !important;
+}
+
+#reward .offer_amount {
+	width: 90%;
+}
+
+.suboff .error_msg {
+	color: #E63946 !important;
+	font-size: 12px !important;
+	margin: 0 0 10px 0 !important;
+}
+
+
+.rafbtndis {
+	opacity: 0.5;
+	cursor: not-allowed;
+}
